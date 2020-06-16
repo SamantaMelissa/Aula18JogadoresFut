@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\bin\Debug\netcoreapp3.1\Aula18FutJogadores.exe
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\bin\Debug\netcoreapp3.1\Aula18FutJogadores.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\bin\Debug\netcoreapp3.1\Aula18FutJogadores.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\bin\Debug\netcoreapp3.1\Aula18FutJogadores.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\bin\Debug\netcoreapp3.1\Aula18FutJogadores.dll
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\bin\Debug\netcoreapp3.1\Aula18FutJogadores.pdb
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\obj\Debug\netcoreapp3.1\Aula18FutJogadores.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\obj\Debug\netcoreapp3.1\Aula18FutJogadores.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\obj\Debug\netcoreapp3.1\Aula18FutJogadores.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\obj\Debug\netcoreapp3.1\Aula18FutJogadores.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\obj\Debug\netcoreapp3.1\Aula18FutJogadores.dll
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\obj\Debug\netcoreapp3.1\Aula18FutJogadores.pdb
+C:\Users\saman\OneDrive\Documentos\Aula18FutJogadores\obj\Debug\netcoreapp3.1\Aula18FutJogadores.genruntimeconfig.cache

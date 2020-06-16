@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula18FutJogadores/1.0.0": {
+        "runtime": {
+          "Aula18FutJogadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula18FutJogadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
